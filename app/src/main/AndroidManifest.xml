@@ -28,7 +28,7 @@
             android:name=".SignIn"
             android:label="@string/title_activity_sign_in"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".MainMeny"></activity>
+        <activity android:name=".MainMenu"></activity>
     </application>
 
 </manifest>
