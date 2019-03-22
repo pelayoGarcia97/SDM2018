@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.myapplication">
-
-    <!-- To auto-complete the email text field in the login form with the user's emails -->
-    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-    <uses-permission android:name="android.permission.READ_PROFILE" />
-    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    package="com.example.scar.gym">
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/appicon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/appicon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".Vistas.MainMenuActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,16 +17,53 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LoginActivity"
-            android:label="@string/title_activity_log_in" />
-        <activity
-            android:name=".SignInActivity"
-            android:label="@string/title_activity_sign_in"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".MainMenu" />
-        <activity
-            android:name=".RutinasActivity"
+            android:name=".Vistas.Rutinas.RutinasActivity"
             android:label="@string/title_activity_rutinas" />
+        <activity android:name=".Vistas.MainActivity" />
+        <activity
+            android:name=".Vistas.Dietas.DietasActivity"
+            android:label="@string/title_activity_dietas" />
+        <activity
+            android:name=".Vistas.Ejercicios.EjerciciosActivity"
+            android:label="@string/title_activity_ejercicios" />
+        <activity
+            android:name=".Vistas.Usuario.UsuarioActivity"
+            android:label="@string/title_activity_usuario" />
+        <activity
+            android:name=".Vistas.CronometroActivity"
+            android:label="@string/title_activity_cronometro" />
+        <activity
+            android:name=".Vistas.Rutinas.RutinaDetallesActivity"
+            android:label="@string/title_activity_rutina_detalles" />
+        <activity
+            android:name=".Vistas.Calendario.CalendarioActivity"
+            android:label="@string/title_activity_calendario" />
+        <activity android:name=".Vistas.DiaConcretoActivity" />
+        <activity
+            android:name=".Vistas.Ejercicios.EjercicioDetallesActivity"
+            android:label="@string/title_activity_ejercicio_detalles" />
+        <activity
+            android:name=".Vistas.Rutinas.DiasRutinaActivity"
+            android:label="@string/title_activity_dias_rutina" />
+        <activity
+            android:name=".Vistas.Log_Registro.RegistroActivity"
+            android:label="@string/title_activity_registro" />
+        <activity
+            android:name=".Vistas.Log_Registro.RegistroDatosActivity"
+            android:label="@string/title_activity_registro_3" />
+        <activity
+            android:name=".Vistas.Log_Registro.RegistroPersonalActivity"
+            android:label="@string/title_activity_registro_2" />
+        <activity
+            android:name=".Vistas.Log_Registro.LogInActivity"
+            android:label="@string/title_activity_login" />
+        <activity android:name=".Vistas.Rutinas.PreDiasRutinaActivity" />
+        <activity android:name=".Vistas.TemporizadorActivity"
+            android:label="@string/title_activity_temporizador" />
+        <activity android:name=".Vistas.Calendario.CalendarioDiaActivity"/>
+        <activity android:name=".Vistas.Calendario.CalendarioDiaEjercicioActivity" />
+        <activity android:name=".Vistas.Calendario.CalendarioDiaDietaActivity"></activity>
+        <activity android:name=".Vistas.Dietas.DietaDetallesActivity"></activity>
     </application>
 
 </manifest>

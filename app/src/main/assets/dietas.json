@@ -1,0 +1,906 @@
+{
+"dietas":[
+    {"id":0,
+    "nombre": "Dieta sin gluten",
+    "descripcion":"Dieta 100% para celiacos con platos sencillos para una dieta variada",
+    "imagen":"dietaceliacos",
+    "url":"https://www.vitonica.com/dietas/tu-dieta-semanal-vitonica-menu-gluten-100-comida-real",
+    "diasSemana":[
+      { "dia":"Lunes",
+        "desayuno":[
+          "Tazon de leche con quinoa inflada, pipas de calabaza y fruta fresca"
+        ],
+        "mediamañana":[
+          "Vasito de mango, yogur y semillas de chía"
+        ],    
+        "comida":[
+            "Garbanzos tostados al pimentos con langostinos y spinacas",
+            "Kiwi"
+        ],
+        "merienda":[
+            "Té o café",
+            "Tostadas de arroz con queso fresco"
+        ],    
+        "cena":[
+            "Ternera asada con crema de calabaza y mijo",
+            "Pera"
+        ]    
+    },
+    { "dia":"Martes",
+        "desayuno":[
+          "Vaso de leche",
+          "Tortitas de platano"
+      ],
+        "mediamañana":[      
+            "Tazon de leche",
+            "Kiwi"
+        ],
+        "comida":[
+            
+            "Salteado de arroz integral, lentejas y vegetales",
+            "Caqui"
+        ],
+        "merienda":[
+            
+            "Vaso de leche",
+            "Panecillos de maíz con aceite de oliva y tomate"
+        ],
+        "cena":[
+            "Guiso de pavo con pimientos y champiñones",
+            "Mango"
+        ]
+    },
+        { "dia":"Miercoles",
+        "desayuno":[
+          "Vaso de leche",
+          "Galletas de nuez sin gluten"
+      ],
+        "mediamañana":[
+          "Yogur natural con platano en rebanadas"
+          ],
+        
+        "comida":[
+          "Fideos chinos de arroz con sepia y verduras",
+            "Manzana"
+          
+          ],
+        
+        "merienda":[
+          "Vaso de leche",
+            "Medio bocadillo de tostadas de arroz con queso fresco, tomate y aguacate"
+          
+          ],  
+        "cena":[
+          "Tarta salada de brócoli y queso crema con base de almendra",
+            "Naranja" 
+        ]
+    },
+    { "dia":"Jueves",
+        "desayuno":[
+          "Huevos al honro sobre aguacate con queso de cabra",
+          "Fruta variada"
+      ],
+        "mediamañana":[
+          "Yogur natural con pipas de calabaza y arandanos"
+          ],
+        
+        "comida":[
+          "Ensalada de quinoa con ternera y aguacate",
+            "Mandarina"
+          
+          ],
+        
+        "merienda":[
+            "Taza de té o café",
+            "Galletas de plátano y coco con pipas de girasol"
+          ],
+        "cena":[
+        "Salmón al horno en papillote",
+            "Chirimoya"
+          
+        ]
+    
+    },
+    { "dia":"Viernes",
+        "desayuno":[
+          "Quinoa con manzana y canela"
+          
+      ],
+        "mediamañana":[
+          "Chips de frutas y verduras"
+          ],
+        
+        "comida":[
+          "Curry verde de pollo con verduras y arroz",
+            "Caqui"
+          
+          ],
+        
+        "merienda":[
+          "Caso de leche",
+            "Galletas de arroz o maíz con aceite de queso fresco"
+          
+          ],
+        
+        
+        "cena":[
+          "Wrap o rollo de claras con judías negras,maíz y aguacate",
+            "Naranja"
+          
+        ]
+    
+    },
+    { "dia":"Sabado",
+        "desayuno":[
+          "Vaso de leche",
+          "Galletas de semillas y frutos secos"
+      ],
+        "mediamañana":[
+          "Yogur natural",
+            "Orejones de melocotón y pipas de girasol"
+          ],
+        
+        "comida":[
+          "Verdinas estofadas con boletus",
+            "Uvas"
+          
+          ],
+        
+        "merienda":[
+          "Taza de té o leche",
+            "Bombones de dos ingredientes",
+            "Fruta fresca"
+          
+          ],
+        
+        
+        "cena":[
+          "Ensalada tailandesa de ternera",
+            "Ensalada de hojas verdes",
+            "Mango"
+          
+        ]
+    
+    },
+    { "dia":"Domingo",
+        "desayuno":[
+          "Smoothie bowl",
+          "Coco con frutos rojos"
+      ],
+        "mediamañana":[
+          "Lassi de pomelo, jenjibre y cúrcuma"
+          ],
+        
+        "comida":[
+          "Fideos de arroz con cerdo salteado y verduras",
+            "Kiwi"
+          
+          ],
+        
+        "merienda":[
+          "Yogur natural con platano en rebanadas y pipas de girasol"
+          
+          ],
+        
+        
+        "cena":[
+          "Sopa de quinoa con alubias y zanahorias",
+            "Manzana"
+          
+                    ]
+    
+                }
+    
+            ]
+        },
+        {"id":1,
+    "nombre": "Dieta para dejar de fumar",
+    "descripcion":"Dejar de fumar no es un objetivo fácil de conseguir, pero si ya has tomado la decisión una alimentación sana, rica en frutas y verduras, puede ser de mucha utilidad para no bajar los brazos y conseguir todos los beneficios que abandonar el mal hábito conlleva.Las frutas y verduras, ricas en vitaminas, minerales, fibra y antioxidantes, ayudan a reducir los deseos de fumar y también, moderan la ansiedad que puede producir la ausencia del tabaco en el cuerpo. Por ello, aquí un menú que puedes poner en práctica si deseas dejar de fumar de forma exitosa:",
+    "url":"https://www.vitonica.com/dietas/tu-dieta-semanal-vitonica-menu-ayuda-para-quienes-intentan-dejar-fumar",
+     "imagen":"dietadejarfumar",
+     "diasSemana":[
+      { "dia":"Lunes",
+        "desayuno":[
+          "Tazón de leche con avena, melocotón en trozos y pipas de girasol"
+         
+      ],
+        "mediamañana":[
+        "Smoothie de kiwi, aguacate y pera."
+        ],    
+        "comida":[
+            "Ensalada de judías negras, quinoa y vegetales",
+            "Ciruela"
+        ],
+        "merienda":[
+            "Medio bocadillo de tomate, queso fresco y hojas verdes"
+        ],    
+        "cena":[
+            "Salmón en papillote con verduras",
+            "Naranja"
+        ]    
+    },
+    { "dia":"Martes",
+        "desayuno":[
+          "Tazón de leche con muesli crujiente de avena y almendras y cerezas frescas"
+      ],
+        "mediamañana":[      
+            "Batido de leche y plátano."
+        ],
+        "comida":[
+            
+            "Ñoquis de zanahoria con crema de calabacín.",
+            "Albaricoque."
+        ],
+        "merienda":[
+            
+            "Té o café con tostadas de pan integral con mermelada de frutas sin azúcar ."
+        ],
+        "cena":[
+            "Wraps o tacos de lechuga con ternera salteada.",
+            "Nectarina."
+        ]
+    },
+        { "dia":"Miercoles",
+        "desayuno":[
+          "Smoothie bowl verde de kiwi, rúcula y avena."
+      ],
+        "mediamañana":[
+          "Vaso de leche y tostadas de pan integral con puré de aguacate y tomate."
+          ],
+        
+        "comida":[
+          "Ensalada de pasta, brócoli y atún. helado de plátano y crema de cacahuete"
+          
+          ],
+        
+        "merienda":[
+          "Infusión con tostadas de pan integral con aceite de oliva y tomate."
+          
+          ],  
+        "cena":[
+          "Albóndigas de berenjenas y alubias al horno con vegetales al vapor.",
+            "Pera." 
+        ]
+    },
+    { "dia":"Jueves",
+        "desayuno":[
+          "Vaso de leche y bocadillo de pan integral de semillas con queso fresco, hojas verdes y tomate."
+      ],
+        "mediamañana":[
+          "Zumo de naranja y tostadas con crema de cacahuetes."
+          ],
+        
+        "comida":[
+          "Ensalada de arroz marinera.",
+            "Melón."
+          
+          ],
+        
+        "merienda":[
+            "Batido de leche y plátano con frutos rojos."
+          ],
+        "cena":[
+        "Ensalada de pollo y aguacate.",
+            "Manzana."
+          
+        ]
+    
+    },
+    { "dia":"Viernes",
+        "desayuno":[
+          "Vaso de leche con galletas de avena, plátano y almendras."
+          
+      ],
+        "mediamañana":[
+          "Zumo de naranja con tostadas de pan integral con queso fresco."
+          ],
+        
+        "comida":[
+          "Tarta tatín de verduras.",
+            "Melocotón."
+          
+          ],
+        
+        "merienda":[
+          "Batido de leche con cerezas."
+          ],
+        
+        
+        "cena":[
+          "Albóndigas de garbanzos, cebada y calabaza con ensalada de vegetales frescos.",
+            "Sandía."
+          
+        ]
+    
+    },
+    { "dia":"Sabado",
+        "desayuno":[
+          "Zumo de naranja y crackers crujientes de semillas y avena con crema de cacahuete."
+      ],
+        "mediamañana":[
+          "Vaso de leche con sándwich de pan integral con queso, hojas verdes y tomate ."
+          ],
+        
+        "comida":[
+          "Alubias pintas con arroz y verduras.",
+            "Ciruela."
+          
+          ],
+        
+        "merienda":[
+          "Tazón de leche con granos de granada, avena y pipas de girasol."
+          
+          ],
+        
+        
+        "cena":[
+          "Ensalada de espárragos blancos y queso feta. Pudding de chocolate vegano sin azúcar."
+          
+        ]
+    
+    },
+    { "dia":"Domingo",
+        "desayuno":[
+          "Tazón de leche con avena, albaricoque en trozos y semillas de lino."
+      ],
+        "mediamañana":[
+          "Batido de leche y cerezas"
+          ],
+        
+        "comida":[
+          "Ensalada de quinoa con ternera y aguacate.",
+            "Plátano."
+          
+          ],
+        
+        "merienda":[
+          "Chips de frutas y verduras."
+          
+          ],
+        
+        
+        "cena":[
+          "Ensalada tailandesa de ternera.",
+            "Ciruela."
+          
+                    ]
+    
+                }
+    
+            ]
+        },
+    {"id":2,
+    "nombre": "Dieta para perder peso y saciarte",
+    "descripcion":"Usando alimentos que ocupan mucho volumen pero tienen pocas calorías como es el caso de frutas y verduras frescas, legumbres, agua, hielo o ingredientes que los contengan, podemos lograr reducir la densidad calórica de los platos y así, saciarnos con igual cantidad de alimentos pero restando energía a la dieta diaria.Por otro lado, ingredientes ricos en fibra, con alto contenido aucoso o muchas proteínas brindarán saciedad y serán nuestros aliados también para lograr un menú ligero que nos ayude a adelgazar protegiendo la salud y sin pasar hambre.",
+    "url":"https://www.vitonica.com/dietas/tu-dieta-semanal-con-vitonica-menu-ligero-y-saciante-para-ayudarte-a-adelgazar-sin-hambre",
+      "imagen":"dietaperderpeso",
+      "diasSemana":[
+      { "dia":"Lunes",
+        "desayuno":[
+          "Smoothie bowl de fresas, plátano y queso fresco con avena."
+         
+      ],
+        "mediamañana":[
+        "Taza de yogur desnatado natural con manzana en cubos y pipas de girasol."
+        ],    
+        "comida":[
+            "Ensalada de pollo, quinoa y cogollos.",
+            "Naranja."
+        ],
+        "merienda":[
+            "Naranja."
+        ],    
+        "cena":[
+            "Tortilla de claras con berenjena.",
+            "Gelatina."
+        ]    
+    },
+    { "dia":"Martes",
+        "desayuno":[
+          "Vaso de leche con cookies de avena, plátano y almendras."
+      ],
+        "mediamañana":[      
+            "Zumo de naranja con tostadas de pan integral con queso fresco."
+        ],
+        "comida":[
+            
+            "Sopa de pavo con cebada y zanahoria.",
+            "Plátano."
+        ],
+        "merienda":[
+            "Medio bocadillo de pan integral con queso, tomate y hojas verdes."
+        ],
+        "cena":[
+            "Brochetas de merluza y piña con ensalada de hojas verdes y tomate.",
+            "Mandarina."
+        ]
+    },
+        { "dia":"Miercoles",
+        "desayuno":[
+          "Vaso de leche y tostadas de pan integral con queso fresco y mermelada de frutas sin azúcar."
+      ],
+        "mediamañana":[
+          "Ensalada de frutas de verano."
+          ],
+        
+        "comida":[
+          "	Ensalada de garbanzos, patata y tomates con aliño de mostaza.",
+            "Nectarina."
+          
+          ],
+        
+        "merienda":[
+          "Zumo de pomelo con tostadas de pan integral con con aceite de oliva y tomate."
+          
+          ],  
+        "cena":[
+          "Wraps o tacos de lechuga con ternera salteada.",
+            "Fresas frescas." 
+        ]
+    },
+    { "dia":"Jueves",
+        "desayuno":[
+          "Vaso de leche y bocadillo de pan integral de semillas con queso fresco, hojas verdes y tomate."
+      ],
+        "mediamañana":[
+          "Zumo de naranja y tostadas de pan integral con crema de cacahuete casera."
+          ],
+        
+        "comida":[
+          "Pastelitos de cuscús y pimiento con espárragos al vapor.",
+            "Níspero."
+          
+          ],
+        
+        "merienda":[
+            "Batido de leche con fresas fresas y avena."
+          ],
+        "cena":[
+        "Ensalada de pollo y aguacate.",
+            "Manzana."
+          
+        ]
+    
+    },
+    { "dia":"Viernes",
+        "desayuno":[
+          "Tazón de leche con plátano en rebanadas y almendras picadas."
+          
+      ],
+        "mediamañana":[
+          "Zumo de naranja con tostadas de pan integral con queso fresco."
+          ],
+        
+        "comida":[
+          "Pasta de lentejas rojas con salteado de tomates cherry.",
+            "Pomelo."
+          
+          ],
+        
+        "merienda":[
+          "Batido de leche con kiwi y melocotón."
+          ],
+        
+        
+        "cena":[
+          "Ensalada de cuscús de coliflor con langostinos marinados.",
+            "Manzana."
+          
+        ]
+    
+    },
+    { "dia":"Sabado",
+        "desayuno":[
+          "Vaso de leche y muffins fitness de plátano y avena."
+      ],
+        "mediamañana":[
+          "Taza de té verde con sándwich de pan integral con queso y tomate."
+          ],
+        
+        "comida":[
+          "Ensalada templada de judías negras y patata.",
+            "Naranja."
+          
+          ],
+        
+        "merienda":[
+          "Tazón de leche con fresas frescas, avena y pipas de girasol."
+          
+          ],
+        
+        
+        "cena":[
+          "Filete de ternera a la plancha con calabaza asada con col rizada o kale.",
+            "Manzana."
+          
+        ]
+    
+    },
+    { "dia":"Domingo",
+        "desayuno":[
+          "Tazón de leche con avena con nectarina en cubos, uvas pasas y semillas de lino."
+      ],
+        "mediamañana":[
+          "Té o café con tostadas de pan integral con queso fresco."
+          ],
+        
+        "comida":[
+          "Habas frescas con rabanitos y ventresca.",
+            "Níspero."
+          
+          ],
+        
+        "merienda":[
+          "Zumo de pomelo con tostadas de pan integral con queso fresco y tomate."
+          
+          ],
+        
+        
+        "cena":[
+          "Ensalada de brócoli con aguacate y huevo.",
+            " Kiwi."
+          
+                    ]
+    
+                }
+    
+            ]
+        },
+  {"id":3,
+    "nombre": "Dieta Vegana Extra Proteinas",
+    "descripcion":"Ya sea si buscas hipertrofiar, estás intentando salir de una lesión o simplemente necesitas sumar proteínas de calidad a tu dieta para lograr una alimentación más equilibrada, hoy en nuestra dieta semanal te mostramos que es posible lograrlo con alimentos de origen vegetal exclusivamente.Usando buenas fuentes de proteínas vegetales, complementando aminoácidos de cereales y legumbres u otros alimentos e incrementando la cantidad de los mismos, podemos lograr un menú vegano con un extra de proteínas como el que mostramos a continuación:",
+    "url":"https://www.vitonica.com/dietas/tu-dieta-semanal-con-vitonica-menu-ideal-para-veganos-que-buscan-un-extra-de-proteinas",
+    "imagen":"dietavegana",
+    "diasSemana":[
+      { "dia":"Lunes",
+        "desayuno":[
+          "Tazón de leche de soja con avena, pipas de girasol y orejones de melocotón."
+        ],
+        "mediamañana":[
+          "Batido de espirulina desecada y tostadas de pan integral con tofu."
+        ],
+        "comida":[
+          "Sopa de quinoa con alubias y zanahoria.",
+          "Plátano."
+        ],
+        "merienda":[
+          "Vaso de leche de almendras y tostadas con paté vegano de champiñones y nueces ."
+        ],
+        "cena":[
+          "Brochetas de seitán y vegetales.",
+          "Manzana."
+        ]
+      },
+      { "dia":"Martes",
+        "desayuno":[
+          "Tazón de leche de coco con muesli crujiente de avena y almendras."
+        ],
+        "mediamañana":[
+          "Zumo de naranja con tostadas de pan integral con crema de cacahuete."
+        ],
+        "comida":[
+
+          "Medallones de lentejas con patatas asadas.",
+          "Kiwi."
+        ],
+        "merienda":[
+          "Batido con tofu sabor horchata."
+        ],
+        "cena":[
+          "Albóndigas de berenjena y alubias al horno con ensalada de remolacha y pipas de girasol.",
+          "Higos."
+        ]
+      },
+      { "dia":"Miercoles",
+        "desayuno":[
+          "Smoothie bowl vegano de piña y coco con frutos rojos."
+        ],
+        "mediamañana":[
+          "Vaso de leche de almendras y tostadas de pan integral con tofu fresco y semillas de chía."
+        ],
+
+        "comida":[
+          "Tempeh con champiñones y cuscús.",
+          "Mandarina."
+
+        ],
+
+        "merienda":[
+          "Zumo de pomelo con tostadas con crema de cacahuete."
+
+        ],
+        "cena":[
+          "Seitán a la plancha con ensalada de calabaza asada, aguacate y rúcula.",
+          "Plátano."
+        ]
+      },
+      { "dia":"Jueves",
+        "desayuno":[
+          "Porridge con leche de almendras y semillas de chía."
+        ],
+        "mediamañana":[
+          "Zumo de naranja y bocadillo de tofu, tomate y berro."
+        ],
+
+        "comida":[
+          "Ensalada de quinoa con lentejas beluga y hortalizas crujientes.",
+          "Mango."
+
+        ],
+
+        "merienda":[
+          "Batido de moras, kale y espinacas."
+        ],
+        "cena":[
+          "Tofu hawaiano a la parrilla.",
+          "Manzana."
+
+        ]
+
+      },
+      { "dia":"Viernes",
+        "desayuno":[
+          "Vaso de leche de soja con galletas de avena, plátano y almendras."
+
+        ],
+        "mediamañana":[
+          "Vaso de leche de almendras congalletas de avena y manzana."
+        ],
+
+        "comida":[
+          "Hamburguesas vegetarianas con quinoa.",
+          "Pomelo."
+
+        ],
+
+        "merienda":[
+          "Batido de leche de coco y espirulina desecada con pipas de girasol."
+        ],
+
+
+        "cena":[
+          "Tacos de tofu y mango con salsa de cacahuete.",
+          "Kiwi."
+
+        ]
+
+      },
+      { "dia":"Sabado",
+        "desayuno":[
+          "Zumo de naranja y barritas energéticas de orejones."
+        ],
+        "mediamañana":[
+          "Vaso de leche de soja con sándwich de pan integral con seitán a la plancha, tomate y lechuga."
+        ],
+
+        "comida":[
+          "Alubias pintas con arroz y verduras.",
+          "Pera."
+
+        ],
+
+        "merienda":[
+          "Tazón de leche de coco con granos de granada, avena y almendras picadas."
+
+        ],
+
+
+        "cena":[
+          "Medallones de brócoli veganos con ensalada de brotes, naranja y cacahuetes tostados.",
+          "Pudding de chocolate vegano sin azúcar."
+
+        ]
+
+      },
+      { "dia":"Domingo",
+        "desayuno":[
+          "Tazón de leche de almendras con avena, mandarina en gajos, uvas pasas y pipas de girasol."
+        ],
+        "mediamañana":[
+          "Batido de leche de soja, espirulina desecada y almendras picadas."
+        ],
+
+        "comida":[
+          "Ensalada de arroz y cuscús con pomelo y frutos secos.",
+          "Plátano."
+
+        ],
+
+        "merienda":[
+          "Zumo de pomelo con tostadas con mantequilla de anarcardos."
+
+        ],
+
+
+        "cena":[
+          "Tortillas veganas de harina de garbanzos rellenas de seitán y vegetales.",
+          " Kiwi."
+
+        ]
+
+      }
+
+    ]
+  },
+  {"id":4,
+    "nombre": "Dieta para subir peso",
+    "descripcion":"Para todos los que desean coger unos kilos para alcanzar un peso más sano y agradable",
+    "imagen":"subirpeso",
+    "url":"https://www.vitonica.com/dietas/tu-dieta-semanal-con-vitonica-cxxxiv-con-recetas-para-subir-de-peso",
+    "diasSemana":[
+      { "dia":"Lunes",
+        "desayuno":[
+          "Batido de leche con una cucharada de leche en polvo, avena, nueces trituradas y plátano"
+        ],
+        "mediamañana":[
+          "Zumo de naranja y bocadillo de pan integral con queso y pechuga de pavo"
+        ],
+        "comida":[
+          "Espaguetis con frutos secos",
+          "Nectarina"
+        ],
+        "merienda":[
+          "Yogur con avena, pipas de girasol y cereales"
+        ],
+        "cena":[
+          "Pollo al horno con pasas y almendras y puré de calabaza",
+          "Albaricoque"
+        ]
+      },
+      { "dia":"Martes",
+        "desayuno":[
+          "Vaso de leche una cucharada de leche en polvo, con pan integral con aceite de oliva y tomate"
+        ],
+        "mediamañana":[
+          "Yogur con cereales, uvas pasas y germen de trigo"
+        ],
+        "comida":[
+
+          "Arroz con tomates secos, almendras y aceitunas",
+          "Melón"
+        ],
+        "merienda":[
+
+          "Batido de plátano y coco con cereales"
+        ],
+        "cena":[
+          "Merluza a la plancha con ensalada de brócoli con queso de cabra y aliño de semillas de amapola",
+          "Melocotón asado"
+        ]
+      },
+      { "dia":"Miercoles",
+        "desayuno":[
+          "Batido de cerezas frescas con leche, frutos secos triturados, avena y leche en polvo"
+        ],
+        "mediamañana":[
+          "Yogur con almendras trituradas, plátano en rebanadas y avena"
+        ],
+
+        "comida":[
+          "Medallones de lentejas en salsa de yogur con hortalizas asadas provenzales",
+          "Albaricoque"
+
+        ],
+
+        "merienda":[
+          "Leche con avena, orejones de melocotón y pipas de girasol"
+
+        ],
+        "cena":[
+          "Calabacines rellenos de bonito",
+          "Pera"
+        ]
+      },
+      { "dia":"Jueves",
+        "desayuno":[
+          "Huevos al honro sobre aguacate con queso de cabra",
+          "Fruta variada"
+        ],
+        "mediamañana":[
+          "Yogur natural con pipas de calabaza y arandanos"
+        ],
+
+        "comida":[
+          "Ensalada de quinoa con ternera y aguacate",
+          "Mandarina"
+
+        ],
+
+        "merienda":[
+          "Taza de té o café",
+          "Galletas de plátano y coco con pipas de girasol"
+        ],
+        "cena":[
+          "Salmón al horno en papillote",
+          "Chirimoya"
+
+        ]
+
+      },
+      { "dia":"Viernes",
+        "desayuno":[
+          "Té o café con pan integral con aceite de oliva y tomate"
+
+        ],
+        "mediamañana":[
+          "Batido de plátano, nueces trituradas y germen de trigo"
+        ],
+
+        "comida":[
+          "Cuscus con frutos secos y queso feta",
+          "Melón"
+
+        ],
+
+        "merienda":[
+          "Té o café con pan integral con queso y semillas de sésamo"
+
+        ],
+
+
+        "cena":[
+          "Pechuga de pollo al horno con espárragos rebozados con bechamel de almendras",
+          "Albaricoques"
+
+        ]
+
+      },
+      { "dia":"Sabado",
+        "desayuno":[
+          "Batido de leche con una cucharada de leche en polvo, avena, nueces trituradas y plátano"
+        ],
+        "mediamañana":[
+          "Zumo de naranja y bocadillo de pan integral con queso y pechuga de pavo"
+        ],
+
+        "comida":[
+          "Espaguetis con frutos secos",
+          "Nectarina"
+
+        ],
+
+        "merienda":[
+          "Yogur con avena, pipas de girasol y cereales"
+        ],
+
+
+        "cena":[
+          "Pollo al horno con pasas y almendras y puré de calabaza",
+          "Albaricoque"
+
+        ]
+
+      },
+      { "dia":"Domingo",
+        "desayuno":[
+          "Vaso de leche una cucharada de leche en polvo, con pan integral con aceite de oliva y tomate"
+        ],
+        "mediamañana":[
+          "Yogur con cereales, uvas pasas y germen de trigo"
+        ],
+
+        "comida":[
+          "Arroz con tomates secos, almendras y aceitunas",
+          "Melón"
+
+        ],
+
+        "merienda":[
+          "Batido de plátano y coco con cereales"
+
+        ],
+
+
+        "cena":[
+          "Merluza a la plancha con ensalada de brócoli con queso de cabra y aliño de semillas de amapola",
+          "Melocotón asado"
+
+        ]
+
+      }
+
+    ]
+  }
+
+    ]
+}

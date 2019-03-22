@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="title_activity_login">Sign in</string>
+    <string name="app_name">My Personal Trainer</string>
+    <string name="title_activity_login">Accede a tu cuenta</string>
 
     <!-- Strings related to login/register -->
     <string name="prompt_email">Email</string>
@@ -16,24 +16,89 @@
     <string name="error_field_required">This field is required</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions." </string>
-    <string name="title_activity_sign_in">Sign In</string>
-    <string name="title_activity_log_in">Login</string>
-    <string name="nickname">Nickname</string>
-    <string name="title_activity_rutinas">Lista de Rutinas</string>
 
-    <!-- Strings related to Rutinas -->
-    <string name="rutina1">Tonificar</string>
-    <string name="rutina2">Perder Peso</string>
-    <string name="rutina3">Ganar Músculo</string>
-    <string name="rutina4">Tren Superior</string>
-    <string name="rutina5">Tren Inferior</string>
-    <string name="rutina6">Six Pack</string>
-    <string name="rutina7">Rutina7</string>
-    <string name="rutina8">Rutina8</string>
-    <string name="rutina9">Rutina9</string>
-    <string name="rutina10">Rutina10</string>
-    <string name="rutina11">Rutina11</string>
-    <string name="rutina12">Rutina12</string>
+    <!-- Opciones Menu -->
+    <string name="Ejercicios">Ejercicios</string>
+    <string name="Ejercicio">Ejercicio</string>
+    <string name="Dietas">Dietas</string>
+    <string name="Dieta">Dieta</string>
+    <string name="Usuario">Usuario</string>
+    <string name="CuentaPasos">Cuenta Pasos</string>
+    <string name="Rutinas">Rutinas</string>
+    <string name="Cronometro">Cronómetro</string>
+    <string name="Calendario">Calendario</string>
 
+
+    <!-- Dias semana -->
+    <string name="Lunes">Lunes</string>
+    <string name="Martes">Martes</string>
+    <string name="Miercoles">Miercoles</string>
+    <string name="Jueves">Jueves</string>
+    <string name="Viernes">Viernes</string>
+    <string name="Sabado">Sabado</string>
+    <string name="Domingo">Domingo</string>
+    <string name="TituloDias">MI SEMANA</string>
+
+    <!-- Títulos de Activities -->
+
+    <string name="title_activity_mainmenu">Menú principal</string>
+    <string name="title_activity_ejercicios">Lista de ejercicios</string>
+    <string name="title_activity_dietas">Lista de dietas</string>
+    <string name="title_activity_rutinas">Lista de rutinas</string>
+    <string name="title_activity_usuario">Usuario</string>
+    <string name="title_activity_cronometro">Cronómetro</string>
+    <string name="title_activity_rutina_detalles">Detalles de rutina</string>
+    <string name="title_activity_calendario">Tu calendario</string>
+    <string name="title_activity_dia_concreto">DiaConcretoActivity</string>
+    <string name="title_activity_ejercicio_detalles">Detalles de ejercicio</string>
+    <string name="title_activity_dias_rutina">Mostrar dias de la rutina</string>
+    <string name="title_activity_registro_3">Registro (3/3)</string>
+    <string name="title_activity_registro_2">Registro (2/3)</string>
+    <string name="title_activity_registro">Registro (1/3)</string>
+    <string name="title_activity_temporizador">Temporizador</string>
+    <string name="title_activity_prediasrutina">PREDIASRUTINA</string>
+
+
+    <!-- Rutinas -->
+
+    <string name="imagen_de_rutina">Imagen de la rutina</string>
+    <string name="add_rutina">Añadir a mis rutinas</string>
+    <string name="show_days">Mostrar ejercicios</string>
+
+    <!-- Log - Registro -->
+    <string name="Email">Email</string>
+    <string name="Password">Contraseña</string>
+    <string name="LogIn">Acceder</string>
+    <string name="NotAccount">¿No tienes una cuenta? Crea una</string>
+    <string name="AppIcon">Icono</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="DatosRegistro">Datos Registro</string>
+    <string name="RepeatPassword">Repite Contraseña</string>
+    <string name="DatosPersonales">Datos Personales</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Altura">Altura</string>
+    <string name="Peso">Peso</string>
+    <string name="Edad">Edad</string>
+    <string name="MedidasUsuario">Medidas Usuario</string>
+    <string name="Alturacm">Altura(cm)</string>
+    <string name="Pesokg">Peso(kg)</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="RepetirContraseña">Repite Contraseña</string>
+    <string name="IMC">IMC</string>
+    <string name="Fecha">Fecha</string>
+    <string name="nuevaMarca">Añadir nueva marca</string>
+    <string name="Login">LogIn</string>
+    <string name="addDieta">Añadir a mi Dieta</string>
+    <string name="Descripcion">Descripción:</string>
+    <string name="ContenidoDieta">Contenido de la Dieta:</string>
+
+    <!-- Rutinas -->
+
+    <string name="Desayuno">Desayuno</string>
+    <string name="Almuerzo">Almuerzo</string>
+    <string name="Comida">Comida</string>
+    <string name="Merienda">Merienda</string>
+    <string name="Cena">Cena</string>
 
 </resources>

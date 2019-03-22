@@ -1,0 +1,266 @@
+{
+  "rutinas": [
+    { "id": 0,
+      "nombre": "Tonificar",
+      "imagen": "tonificar",
+      "resumen": "Esta rutina es para tonificar",
+      "descripcion": "Rutina enfocada a la ganada de musculo progresiva sin renunciar a la definición",
+      "principiante" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Carrera continua", "Remo con barra", "Zancadas", "Press militar con mancuernas", "Rodillas al pecho en posición de plancha"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Planchas", "Remo agarre medio en polea", "Subidas a banco", "Lumbares en banco", "Abdominales tumbado piernas 90º"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Multisaltos", "Aperturas de pecho en banco", "Rotaciones de hombro con balón medicinal", "Sentadillas con press militar", "Extensiones de pierna tumbado"]
+            }
+          ]
+      },
+      "intermedio" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Carrera continua", "Remo con barra", "Zancadas", "Press militar con mancuernas", "Dominadas", "Rodillas al pecho en posición de plancha"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Planchas", "Remo agarre medio en polea", "Subidas a banco", "Lumbares en banco", "Burpees", "Abdominales tumbado piernas 90º"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Multisaltos", "Aperturas de pecho en banco", "Rotaciones de hombro con balón medicinal", "Sentadillas con press militar", "Dominadas", "Extensiones de pierna tumbado"]
+            },
+            { "dia": "Sabado",
+              "ejercicios" : ["Carrera continua", "Remo con barra", "Zancadas", "Press militar con mancuernas", "Dominadas", "Rodillas al pecho en posición de plancha"]
+            }
+          ]
+      },
+      "avanzado" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Carrera continua", "Remo con barra", "Zancadas", "Press militar con mancuernas", "Dominadas", "Rodillas al pecho en posición de plancha"]
+            },
+            { "dia": "Martes",
+              "ejercicios" : ["Planchas", "Remo agarre medio en polea", "Subidas a banco", "Lumbares en banco", "Burpees", "Abdominales tumbado piernas 90º"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Multisaltos", "Aperturas de pecho en banco", "Rotaciones de hombro con balón medicinal", "Sentadillas con press militar", "Dominadas", "Extensiones de pierna tumbado"]
+            },
+            {"dia": "Jueves",
+              "ejercicios" : ["Carrera continua", "Remo con barra", "Zancadas", "Press militar con mancuernas", "Burpees", "Rodillas al pecho en posición de plancha"]
+            },
+            {"dia": "Viernes",
+              "ejercicios" : ["Planchas", "Remo agarre medio en polea", "Subidas a banco", "Lumbares en banco", "Dominadas", "Abdominales tumbado piernas 90º"]
+            },
+            {"dia": "Sabado",
+              "ejercicios" : ["Multisaltos", "Aperturas de pecho en banco", "Rotaciones de hombro con balón medicinal", "Sentadillas con press militar", "Burpees", "Extensiones de pierna tumbado"]
+            }
+          ]
+      }
+    },
+    
+    { "id": 1,
+      "nombre": "Perder peso",
+      "imagen": "perderpeso",
+      "resumen": "Esta rutina es para perder peso",
+      "descripcion": "Rutina para quemar grasas sin sacrificar la ganancia de musculo en el proceso",
+      "principiante" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Carrera continua", "Multisaltos", "Extensiones de pierna tumbado", "Rodillas al pecho en posición de plancha"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Carrera continua", "Planchas", "Lumbares de pie", "Lumbares en banco"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Carrera continua", "Abdominales tumbado piernas 90º", "Salto de rana estático"]
+            }
+          ]
+      },
+      "intermedio" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Carrera continua", "Multisaltos", "Burpees", "Extensiones de pierna tumbado", "Rodillas al pecho en posición de plancha"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Carrera continua", "Planchas", "Lumbares de pie", "Lumbares en banco", "Dominadas"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Carrera continua", "Abdominales tumbado piernas 90º", "Salto de rana estático", "Plancha abdominal alternando apoyo"]
+            },
+            { "dia": "Sabado",
+              "ejercicios" : ["Carrera continua", "Multisaltos", "Burpees", "Extensiones de pierna tumbado", "Rodillas al pecho en posición de plancha"]
+            }
+          ]
+      },
+      "avanzado" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Carrera continua", "Multisaltos", "Burpees", "Extensiones de pierna tumbado", "Rodillas al pecho en posición de plancha"]
+            },
+            { "dia": "Martes",
+              "ejercicios" : ["Carrera continua", "Planchas", "Lumbares de pie", "Lumbares en banco", "Dominadas"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Carrera continua", "Abdominales tumbado piernas 90º", "Salto de rana estático", "Plancha abdominal alternando apoyo"]
+            },
+            {"dia": "Jueves",
+              "ejercicios" : ["Carrera continua", "Multisaltos", "Burpees", "Extensiones de pierna tumbado", "Rodillas al pecho en posición de plancha"]
+            },
+            {"dia": "Viernes",
+              "ejercicios" : ["Carrera continua", "Planchas", "Lumbares de pie", "Lumbares en banco", "Dominadas"]
+            },
+            {"dia": "Sabado",
+              "ejercicios" : ["Carrera continua", "Abdominales tumbado piernas 90º", "Salto de rana estático", "Plancha abdominal alternando apoyo"]
+            }
+          ]
+      }
+    },
+
+    { "id": 2,
+      "nombre": "Ganar músculo",
+      "imagen": "ganarmusculo",
+      "resumen": "Esta rutina es para ganar músculo",
+      "descripcion": "Rutina elavorada para ganar musculo. Por ello se realizarán los ejercicios con más pesos y se entrenará con menos frecuencia durante la semana para favorecer el descanso",
+      "principiante" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Planchas con mancuerna", "Aperturas de pecho en banco", "Pecho con cable"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Remo agarre medio en polea", "Press militar con mancuernas", "Remo con barra", "Elevaciones laterales de hombro"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Sentadillas", "Pistols apoyado en banco", "Subidas a banco", "Subida a banco elevaciones de hombro"]
+            }
+          ]
+      },
+      "intermedio" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Planchas con mancuerna", "Aperturas de pecho en banco", "Pecho con cable", "Planchas"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Remo agarre medio en polea", "Press militar con mancuernas", "Dominadas", "Remo con barra", "Elevaciones laterales de hombro"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Sentadillas", "Pistols apoyado en banco", "Zancadas", "Subidas a banco", "Subida a banco elevaciones de hombro"]
+            }
+          ]
+      },
+      "avanzado" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Planchas con mancuerna", "Aperturas de pecho en banco", "Pecho con cable", "Planchas"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Remo agarre medio en polea", "Press militar con mancuernas", "Dominadas", "Remo con barra", "Elevaciones laterales de hombro"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Sentadillas", "Pistols apoyado en banco", "Zancadas", "Subidas a banco", "Subida a banco elevaciones de hombro"]
+            },
+            {"dia": "Domingo",
+              "ejercicios" : ["Carrera continua", "Rodillas a los codos", "Burpees", "Zancadas", "Plancha abdominal alternando apoyo"]
+            }
+          ]
+      }
+    },
+
+    { "id": 3,
+      "nombre": "Tren superior",
+      "imagen": "trensuperior",
+      "resumen": "Esta rutina es para ejercitar el tren superior",
+      "descripcion": "Rutina enfocada a fortalecer el los grupos musculares situados en la parte superior del cuerpo.",
+      "principiante" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Rotaciones de hombro con balón medicinal", "Trapecios con mancuerna de pie", "Planchas con mancuerna", "Remo agarre medio en polea"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Elevaciones laterales de hombro", "Pecho con cable", "Lumbares tumbado"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Press militar con mancuernas", "Aperturas de pecho en banco", "Remo con barra", "Lumbares de pie lastrado"]
+            }
+          ]
+      },
+      "intermedio" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Rotaciones de hombro con balón medicinal", "Trapecios con mancuerna de pie", "Planchas con mancuerna", "Remo agarre medio en polea", "Dominadas"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Elevaciones laterales de hombro", "Planchas", "Pecho con cable", "Lumbares tumbado"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Press militar con mancuernas", "Aperturas de pecho en banco", "Remo con barra", "Burpees", "Lumbares de pie lastrado"]
+            }
+          ]
+      },
+      "avanzado" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Rotaciones de hombro con balón medicinal", "Trapecios con mancuerna de pie", "Planchas con mancuerna", "Remo agarre medio en polea", "Dominadas"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Elevaciones laterales de hombro", "Planchas", "Pecho con cable", "Lumbares tumbado"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Press militar con mancuernas", "Aperturas de pecho en banco", "Remo con barra", "Burpees", "Lumbares de pie lastrado"]
+            },
+            {"dia": "Sabado",
+              "ejercicios" : ["Carrera continua", "Abdominales tumbado piernas 90º", "Plancha abdominal alternando apoyo", "Lumbares en banco"]
+            }
+          ]
+      }
+    },
+
+    { "id": 4,
+      "nombre": "Tren inferior",
+      "imagen": "treninferior",
+      "resumen": "Esta rutina es para ejercitar el tren inferior",
+      "descripcion": "Rutina enfocada para fortalecer el tren inferior, grupo muscular fundamental para progresar en el resto de grupos musculares",
+      "principiante" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Sentadillas posición de sumo", "Subidas a banco"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Sentadillas", "Subida a banco elevaciones de hombro"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Sentadilla a banco", "Carrera continua"]
+            }
+          ]
+      },
+      "intermedio" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Sentadillas posición de sumo", "Subidas a banco", "Elevaciones de pierna"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Sentadillas", "Subida a banco elevaciones de hombro", "Extensiones de pierna tumbado"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Sentadilla a banco", "Carrera continua", "Abdominales tumbado piernas 90º"]
+            }
+          ]
+      },
+      "avanzado" : {
+          "diasSemana": [
+            { "dia": "Lunes",
+              "ejercicios" : ["Sentadillas posición de sumo", "Subidas a banco", "Salto de rana estático", "Elevaciones de pierna"]
+            },
+            { "dia": "Miercoles",
+              "ejercicios" : ["Sentadillas", "Subida a banco elevaciones de hombro", "Avion de cadera", "Extensiones de pierna tumbado"]
+            },
+            { "dia": "Viernes",
+              "ejercicios" : ["Sentadilla a banco", "Carrera continua", "Sentadillas laterales", "Abdominales tumbado piernas 90º"]
+            },
+            {"dia": "Sábado",
+              "ejercicios" : ["Pistols apoyado en banco", "Rodillas a los codos", "Planchas con mancuerna", "Sentadilla con contracción de hombros"]
+            }
+          ]
+      }
+    }
+  ]
+}

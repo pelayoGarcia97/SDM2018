@@ -1,0 +1,345 @@
+{
+  "ejercicios": [
+
+    { "nombre": "Trapecios con mancuerna de pie",
+	  "imagen": "ej02",
+      "modo" : "repeticiones",
+      "principiante" : 6,
+      "intermedio" : 8,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio para trabajar la parte trasera del hombro, al hacerlo con mancuerna se eliminan muchos riesgos de hacerlo con barra"
+    },
+
+    { "nombre": "Planchas con mancuerna",
+	  "imagen": "ej03",
+      "modo" : "repeticiones",
+      "principiante" : 8,
+      "intermedio" : 10,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio que aumenta la dificultad a las planchas clásicas"
+    },
+
+    { "nombre": "Subida a banco elevaciones de hombro",
+	  "imagen": "ej04",
+      "modo" : "repeticiones",
+      "principiante" : 8,
+      "intermedio" : 12,
+      "avanzado" : 15,
+      "descripcion": "Ejercicio para fortalecer las piernas junto con los hombros"
+    },
+
+    { "nombre": "Burpees",
+      "imagen": "ej05",
+      "modo" : "repeticiones",
+      "principiante" : 6,
+      "intermedio" : 8,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio muy completo, ideal para quemar calorias a la par que tonifica"
+    },
+
+
+    { "nombre": "Sentadillas con press militar",
+      "imagen": "ej07",
+      "modo" : "tiempo",
+      "principiante" : 6,
+      "intermedio" : 8,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio muy completo que mezcla el tren superior e inferior"
+    },
+
+
+    { "nombre": "Abdominales tumbado piernas 90º",
+      "imagen": "ej09",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Muy buen ejercicio para trabajar la estabilidad y aumentar la fuerza en el area abdominal"
+    },
+
+    { "nombre": "Rodillas a los codos",
+      "imagen": "ej10",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Ejercicio aeróbico que nos permite trabajar la zona de los oblicuos y las piernas simultaneamente"
+    },
+
+    { "nombre": "Sentadillas",
+    "imagen": "ej11",
+    "modo" : "repeticiones",
+    "principiante" : 6,
+    "intermedio" : 8,
+    "avanzado" : 12,
+    "descripcion": "El ejercicio básico para trabajar las piernas"
+    },
+
+    { "nombre": "Rotaciones de hombro con balón medicinal",
+    "imagen": "ej12",
+    "modo" : "tiempo",
+    "principiante" : 30,
+    "intermedio" : 60,
+    "avanzado" : 90,
+    "descripcion": "Ejercicio para trabajar de manera continua el hombro centrado tanto en la parte interna como externa"
+    },
+
+    { "nombre": "Extensiones de pierna tumbado",
+    "imagen": "ej13",
+    "modo" : "Repeticiones",
+    "principiante" : 10,
+    "intermedio" : 15,
+    "avanzado" : 20,
+    "descripcion": "Combinación de un trabajo fuerte de los abdominales y uno más leve en las piernas"
+    },
+
+    { "nombre": "Sentadilla con contracción de hombros",
+    "imagen": "ej14",
+    "modo" : "repeticiones",
+    "principiante" : 10,
+    "intermedio" : 15,
+    "avanzado" : 20,
+    "descripcion": "Otra variante del ejercicio de sentadillo clásico"
+    },
+
+    { "nombre": "Elevaciones laterales de hombro",
+    "imagen": "ej15",
+    "modo" : "repeticiones",
+    "principiante" : 6,
+    "intermedio" : 8,
+    "avanzado" : 12,
+    "descripcion": "Ejercicio para trabajar el músculo rotatorio del hombro"
+    },
+
+
+    { "nombre": "Rodillas al pecho en posición de plancha",
+    "imagen": "ej18",
+    "modo" : "repeticiones",
+    "principiante" : 10,
+    "intermedio" : 15,
+    "avanzado" : 20,
+    "descripcion": "Un ejercicio fundamental para trabajar el core"
+    },
+
+    { "nombre": "Salto de rana estático",
+    "imagen": "ej19",
+    "modo" : "repeticiones",
+    "principiante" : 10,
+    "intermedio" : 15,
+    "avanzado" : 20,
+    "descripcion": "Ejercicio aeróbico que nos permite hacer un trabajo cardiovascular dando saltos en estatico"
+    },
+
+    { "nombre": "Lumbares tumbado",
+      "imagen": "ej21",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Ejercicio básico para los lumbares, sin necesidad de utilizar otro elemento más que nuestro cuerpo"
+    },
+
+    { "nombre": "Elevaciones de pierna",
+      "imagen": "ej22",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Ejerrcicio centrado en el area abdominal que de forma indirecta nos fuerza a trabajar las piernas"
+    },
+
+    { "nombre": "Carrera continua",
+      "imagen": "ej23",
+      "modo" : "tiempo",
+      "principiante" : 10,
+      "intermedio" : 25,
+      "avanzado" : 40,
+      "descripcion": "Ejercicio aeróbico por excelencia, parte fundamental de las rutinas de definición y muy usado como calentamiento"
+    },
+
+    { "nombre": "Plancha abdominal alternando apoyo",
+      "imagen": "ej24",
+      "modo" : "tiempo",
+      "principiante" : 30,
+      "intermedio" : 60,
+      "avanzado" : 90,
+      "descripcion": "Ejercicio que permite trabajar el abdominal de forma muy diferente, sin mover el core"
+    },
+
+    { "nombre": "Sentadillas posición de sumo",
+      "imagen": "ej25",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Un ejercicio más para trabajar los grupos fundamentales del tren inferior lastrado"
+    },
+
+
+    { "nombre": "Lumbares de pie",
+      "imagen": "ej28",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Ejercicio de lumbar en el que no necesitamos ningún instrumento extra para realizarlo"
+    },
+
+    { "nombre": "Lumbares de pie lastrado",
+      "imagen": "ej29",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Ejercicio que nos permite trabajar los lumbares añadiendo un peso extra y no solo utilizar nuestro propio peso"
+    },
+
+    { "nombre": "Avion de cadera",
+      "imagen": "ej30",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Ejercicio que trabaja el equilibrio además de las piernas"
+    },
+
+
+    { "nombre": "Lumbares en banco",
+      "imagen": "ej31",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Ejercicio basico para forttalecer los lumbares, tiene la ventaja de que se puede hacer lastrado"
+    },
+
+
+    { "nombre": "Remo agarre medio en polea",
+      "imagen": "ej33",
+      "modo" : "repeticiones",
+      "principiante" : 8,
+      "intermedio" : 10,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio básico para tonificar la espalda"
+    },
+
+    { "nombre": "Planchas",
+      "imagen": "ej34",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Uno de los ejercicios clasicos utilizando tan solo nuestro cuerpo"
+    },
+
+    { "nombre": "Remo con barra",
+      "imagen": "ej35",
+      "modo" : "repeticiones",
+      "principiante" : 6,
+      "intermedio" : 8,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio para trabajar la fuerza de la espalda"
+    },
+
+    { "nombre": "Pistols apoyado en banco",
+      "imagen": "ej36",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Más técnico que las sentadillas y nos permite trabajar las piernas de manera independiente"
+    },
+
+
+    { "nombre": "Dominadas",
+      "imagen": "ej38",
+      "modo" : "repeticiones",
+      "principiante" : 6,
+      "intermedio" : 8,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio con el que se trabajan todos los grupos musculares fundamentales a excepcion de la pierna"
+    },
+
+    { "nombre": "Multisaltos",
+      "imagen": "ej39",
+      "modo" : "tiempo",
+      "principiante" : 30,
+      "intermedio" : 60,
+      "avanzado" : 120,
+      "descripcion": "Ejercicio aeróbico en estático ideal para calentar"
+    },
+
+
+    { "nombre": "Sentadilla a banco",
+      "imagen": "ej41",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Ejercicio de sentadilla focalizado en bajar de una manera controlada"
+    },
+
+    { "nombre": "Subidas a banco",
+      "imagen": "ej42",
+      "modo" : "tiempo",
+      "principiante" : 30,
+      "intermedio" : 30,
+      "avanzado" : 40,
+      "descripcion": "Ejercicio que combina la parte aeróbica y con ejercicios de fuerza"
+    },
+
+    { "nombre": "Sentadillas laterales",
+      "imagen": "ej43",
+      "modo" : "tiempo",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Variación de las sentadillas tradicionales pero realizandolas lateralmente y alternando la fuerza en las piernas"
+    },
+
+    { "nombre": "Zancadas con patadas",
+      "imagen": "ej44",
+      "modo" : "repeticiones",
+      "principiante" : 10,
+      "intermedio" : 15,
+      "avanzado" : 20,
+      "descripcion": "Modificación de las zancadas basicas añadiendole una patada final para hacer mas esfuerzo en la pierna"
+    },
+
+    { "nombre": "Zancadas",
+      "imagen": "ej45",
+      "modo" : "repeticiones",
+      "principiante" : 12,
+      "intermedio" : 20,
+      "avanzado" : 30,
+      "descripcion": "Ejercicio centrado en tratar el tren inferior de forma aerobica"
+    },
+
+    { "nombre": "Press militar con mancuernas",
+      "imagen": "ej46",
+      "modo" : "tiempo",
+      "principiante" : 6,
+      "intermedio" : 8,
+      "avanzado" : 12,
+      "descripcion": "Ejercicicio para trabajar la fuerza del hombro externo e interno"
+    },
+
+    { "nombre": "Aperturas de pecho en banco",
+      "imagen": "ej47",
+      "modo" : "repeticiones",
+      "principiante" : 6,
+      "intermedio" : 8,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio que además de trabajar la fuerza en el pectoral fomenta el ensanchamiento de los dorsales"
+    },
+
+    { "nombre": "Pecho con cable",
+      "imagen": "ej48",
+      "modo" : "repeticiones",
+      "principiante" : 8,
+      "intermedio" : 10,
+      "avanzado" : 12,
+      "descripcion": "Ejercicio para trabajar el pecho basado en el empuje"
+    }
+  ]
+}
